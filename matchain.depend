@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523637001 source:b:\mozakra\third year\semester2\algorthims\assigments\g2_20150088_assign10_matchain\matchain\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<limits>
+
